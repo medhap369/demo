@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+div.container {
+	background-color: #FE2E2E;
+	width: 100%;
+	height: 100vh;
+	position: relative;
+}
+div.container div.item {
+	border: 1px solid #BDBDBD;
+	background-color: #F2F2F2;
+	width: 70px;
+	height: 90px;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	position: absolute;
+}
